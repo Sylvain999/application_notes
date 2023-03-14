@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Plan your life</string>
+    <string name="title_add_activity">Add an activity</string>
+    <string name="date_add">Date</string>
+
+    <string name="i_want_to">Je veux :</string>
+    <string name="hint_i_want_to">Tapez votre activité</string>
+    <string name="do_it_at_date">Et je veux le faire le : </string>
+    <string name="hint_do_it_at_date">La date de l\'activité </string>
+    <string name="create_activity">Créez votre activité !</string>
+    <string name="no_activities">Pas d\'activitées prévues aujourrd\'hui, profitez de votre journée !</string>
+
+    <string name="list_activities_title">Dans le programme d\'aujourd\'hui : </string>
+</resources>

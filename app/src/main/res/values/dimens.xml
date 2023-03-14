@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_title_main_activity">100dp</dimen>
+
+    <dimen name="size_button_add_activity">50dp</dimen>
+</resources>
